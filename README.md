@@ -8,7 +8,7 @@
 
 A machine learning-powered **Sentiment Analysis System** that classifies movie reviews as positive or negative using Recurrent Neural Networks (RNN). This full-stack application features a trained SimpleRNN model, Streamlit web interface, and IMDB dataset integration for accurate sentiment classification with **85.8% accuracy**.
 
-**Live Demo:** [https://sentiment-analysis-rnn-lccbnqgswwv7jtccdergwq.streamlit.app/](https://sentiment-analysis-rnn-lccbnqgswwv7jtccdergwq.streamlit.app/)
+**Live Demo:** [https://sentiment-analysis-rnn-lccbnqgswwv7jtccdergwq.streamlit.app/](https://sentiment-analysis-rnn-knqyp9eq33sb2s6xfpawqt.streamlit.app)
 
 ---
 
@@ -221,7 +221,7 @@ Install all: `pip install -r requirements.txt`
 
 **Try the interactive application:**
 
-👉 [**Sentiment Analysis RNN - Live Demo**](https://sentiment-analysis-rnn-lccbnqgswwv7jtccdergwq.streamlit.app/)
+👉 [**Sentiment Analysis RNN - Live Demo**](https://sentiment-analysis-rnn-knqyp9eq33sb2s6xfpawqt.streamlit.app)
 
 - Enter any movie review
 - Get instant sentiment prediction
